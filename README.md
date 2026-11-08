@@ -5,9 +5,9 @@ Software engineer
 -----------------
 
 Senior Frontend Engineer working in industry for 7+ years. I have worked in IT different industries like SaaS Applications,E commerce, Fin-tech, IOT, Telecommunication etc. Having hands on experience in ReactJS, NextJS, React-native and ecosystem  
-* 🌍  I'm based in Islamabad 
+* 🌍  I'm based in Munich, Germany 
 * 🖥️  See my portfolio at [My Portfolio](http://shehzad.me) 
-* ✉️  You can contact me at [shezo85@hotmail.com](mailto:shezo85@hotmail.com) 
+* ✉️  You can contact me at [shezo85@hotmail.com](mailto:shezo.khan@gmail.com) 
 * 🧠  I'm learning Flutter
 
 ### Skills
